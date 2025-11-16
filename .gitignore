@@ -4,6 +4,7 @@
 !Lab*
 !.git
 !.gitignore
+!Лабораторная_*
 
 **/*.localz
 **/*.local
