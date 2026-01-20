@@ -18,7 +18,7 @@
 **/*.scc
 **/*.mv.*
 **/*.unmkelem.*
-**/*.sync.*
+**/*.sync.*к
 **/*.rename.*
 **/*.unbranch.*
 **/*.unco.*
@@ -43,3 +43,4 @@
 **/*.rvi
 **/.#*
 **/CVS/**
+**/*.sync.*
